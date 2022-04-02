@@ -1,0 +1,4 @@
+<launch>
+<node name="pure_pursuit" type="pure_pursuit" pkg="pure_pursuit" output="screen"></node>
+
+</launch>
